@@ -65,14 +65,8 @@
   color: #1a1816;
 }
 
-.p {
-  font-style: normal;
-  font-size: 16px;
-  font-stretch: normal;
-  line-height: 1.2;
-  letter-spacing: normal;
-  text-align: left;
-
+.p { 
+ font-style: normal;
 }
 
 .main pre {
