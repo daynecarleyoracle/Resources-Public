@@ -2,77 +2,19 @@
 .main dc3 {
   font-size: 30px;
   font-weight: bold;
-  font-style: normal;
-  font-stretch: normal;
   line-height: 1.5;
-  letter-spacing: normal;
-  text-align: left;
   padding-top: 20px;
 }
 
 .main dc4 {
   font-size: 25px;
   font-weight: bold;
-  font-style: normal;
-  font-stretch: normal;
   line-height: 1.5;
-  letter-spacing: normal;
-  text-align: left;
     padding-top: 20px;
 }
 
 .main dc4 a {
   color: #1a1816;
-}
-
-.main h3 {
-  font-size: 30px;
-  font-weight: bold;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: 1.5;
-  letter-spacing: normal;
-  text-align: left;
-}
-
-.main h4 {
-  font-size: 20px;
-  font-weight: bold;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: 1.5;
-  letter-spacing: normal;
-  text-align: left;
-
-}
-
-.main h4 a {
-  color: #1a1816;
-}
-
-.main h2 {
-  font-size: 20px;
-  font-weight: bold;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: 1.2;
-  letter-spacing: normal;
-  text-align: left;
-
-}
-
-.main h2 a {
-  color: #1a1816;
-}
-
-.p {
-  font-style: normal;
-  font-size: 18px;
-  font-stretch: normal;
-  line-height: 1.2;
-  letter-spacing: normal;
-  text-align: left;
-
 }
 
 .main pre {
@@ -83,9 +25,6 @@
   border-bottom-left-radius: 10px;
   padding: 10px;
   font-size: smaller;
-  font-stretch: normal;
-  letter-spacing: normal;
-  text-align: left;
   background-color: linen;
 }
 
@@ -98,19 +37,10 @@
   border-bottom-left-radius: 10px;
   padding: 10px;
   font-size: small;
-  font-stretch: normal;
-  letter-spacing: normal;
-  text-align: left;
   background-color: linen;
 }
 
 .li {
-  font-size: 16px;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: 1.2;
-  letter-spacing: normal;
-  text-align: left;
   margin-left: 0px;
 }
 
@@ -192,7 +122,13 @@ text-align: left;
    font-family: 'Oracle Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
    color: #1a1816;
    background-color: #fcfbfa;
+   font-style: normal;
    font-size: 18px;
+   font-stretch: normal;
+   line-height: 1.44;
+   letter-spacing: normal;
+   text-align: left;
+
 
 }
 
