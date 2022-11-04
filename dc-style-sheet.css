@@ -1,5 +1,8 @@
+.bold {
+  font-weight: bold;
+}
 
-.main dc3 {
+.body dc3 {
   font-size: 30px;
   font-weight: bold;
   line-height: 1.5;
@@ -7,7 +10,14 @@
 }
 
 .main dc4 {
-  font-size: 25px;
+  font-size: 26px;
+  font-weight: bold;
+  line-height: 1.5;
+    padding-top: 20px;
+}
+
+.main dc5 {
+  font-size: 22px;
   font-weight: bold;
   line-height: 1.5;
     padding-top: 20px;
